@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <executable>
-  <category>Shape Analysis</category>
+  <category>Shape Analysis.Advanced</category>
   <title>shape4D</title>
   <description><![CDATA[shape4D is a Slicer extension for estimating continuous evolution from a discrete collection of shapes, designed to produce realistic anatomical trajectories.]]></description>
   <version>1.0.0</version>
